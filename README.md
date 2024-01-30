@@ -4,7 +4,8 @@
 
 A simple implementation of the classic Tic Tac Toe game in Ruby.
 This is a CLI Game gotten from Odin Full stack on Ruby
-- [Tict-Tac-Toe Instructions](https://www.theodinproject.com/lessons/ruby-tic-tac-toe)
+
+- [Tic-Tac-Toe Instructions](https://www.theodinproject.com/lessons/ruby-tic-tac-toe)
 
 ## Installation
 
@@ -16,7 +17,15 @@ cd odin-ruby-tic-tac-toe-game
 ```
 
 ## Usage
+
 Run the game and follow the on-screen instructions to play Tic Tac Toe.
+
 ```bash
-ruby main.rb
+ruby lib/main.rb
+```
+
+Run Test
+
+```bash
+rspec
 ```
